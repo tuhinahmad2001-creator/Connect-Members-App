@@ -1,0 +1,6 @@
+{
+  "name": "Connect Members",
+  "description": "গুগল শীট বা এক্সেল থেকে মেম্বার তথ্য কপি-পেস্ট করে বকেয়া চাঁদা, মাসিক বিল বা বিশেষ মন্তব্য সহ সরাসরি মোবাইল সিম এসএমএস এবং হোয়াটসএপ এ বার্তা বিতরণের প্রফেশনাল গেটওয়ে ড্যাশবোর্ড।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
